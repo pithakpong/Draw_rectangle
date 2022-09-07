@@ -9,7 +9,7 @@ int main()
     { 
         if (i%number == 0 && i!=1)
         { 
-            printf("\n");
+            printf("*\n");
         }
         else{ 
             printf("*");
